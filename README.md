@@ -50,3 +50,5 @@ Use the same member email/password created through society invitation or applica
 - Admin users can sign in but only see member portal functionality (no admin dashboard).
 - Learning Center is a placeholder, matching the web portal.
 - Notification settings are read-only, matching the web member account page.
+
+<!-- tiny change for push test -->
